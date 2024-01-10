@@ -13,6 +13,11 @@ public abstract class InventoryDisplay : MonoBehaviour
     public InventorySystem InventorySystem => inventorySystem;
     public Dictionary<InventorySlot_UI, InventorySlot> SlotDictionary => slotDictionary;
 
+    protected virtual void Start()
+    {
+
+    }
+
     public abstract void AssignSlot(InventorySystem invToDisplay);
 
     protected virtual void UpdateSlot(InventorySlot updatedSlot)

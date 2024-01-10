@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7172f9e1cdaed5e499ca5d57363d9a5f, type: 3}
-  m_Name: Test Item 1
+  m_Name: Tomato
   m_EditorClassIdentifier: 
   ID: 0
   DisplayName: Test ITem 1
