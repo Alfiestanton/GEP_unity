@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Test Item 2
   m_EditorClassIdentifier: 
   ID: 0
-  DisplayName: Test Item 2
-  Description: This is another test item
-  Icon: {fileID: 0}
+  DisplayName: potato
+  Description: This is a potato
+  Icon: {fileID: -881872437, guid: 406836f1f3718a340874f087846c7819, type: 3}
   MaxStackSize: 1

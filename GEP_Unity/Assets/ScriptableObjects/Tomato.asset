@@ -13,9 +13,10 @@ MonoBehaviour:
   m_Name: Tomato
   m_EditorClassIdentifier: 
   ID: 0
-  DisplayName: Test ITem 1
-  Description: 'This is a test item.
+  DisplayName: Tomato
+  Description: 'This is a tomato
+
 
 '
-  Icon: {fileID: 0}
+  Icon: {fileID: -1143403253, guid: 406836f1f3718a340874f087846c7819, type: 3}
   MaxStackSize: 5
